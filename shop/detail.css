@@ -1,0 +1,22 @@
+body {
+  padding: 0px;
+  margin: 0px;
+}
+
+#content {
+  margin-top: 80px;
+}
+
+.button-checkout {
+  width: 100%;
+  padding: 15px;
+  margin: 20px 0px;
+}
+
+.brand-logo {
+  text-align: center;
+  margin: 20px;
+}
+.icon-sosmed {
+  padding: 0px 20px;
+}
